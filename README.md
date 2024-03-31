@@ -1,5 +1,8 @@
 ### Oi, eu sou o Henrique! Prazer! 👋
+    Hello, i'm Henrique! Nice to meet you 
 Estou me dedicando muito para me tornar um desenvolvedor mobile! 💻📱
+    I'm dedicating myself a lot to becoming a mobile developer!
+
 
 ### TECNOLOGIAS QUE ESTOU DESENVOLVENDO! 📚📚
 <div style="display:inline_block"> <br/>
@@ -12,4 +15,4 @@ Estou me dedicando muito para me tornar um desenvolvedor mobile! 💻📱
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-### Me preparando muito para fazer a diferença no mundo, com o que acredito! 🤟🏻🙌🏻
+### Estou focado para fazer a diferença no mundo! 🙌🏻
