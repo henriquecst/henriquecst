@@ -1,6 +1,9 @@
 ### Oi, eu sou o Henrique! Prazer! 👋
     Hello, i'm Henrique! Nice to meet you 
     
+### Estou estudando automação de testes 
+    I'm studying test automation
+    
 ### TECNOLOGIAS QUE ESTOU DESENVOLVENDO! 📚📚
 <div style="display:inline_block"> <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
